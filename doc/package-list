@@ -1,0 +1,8 @@
+ch.hsr.i.yaetm.db
+ch.hsr.i.yaetm.logic
+ch.hsr.i.yaetm.models
+ch.hsr.i.yaetm.ui.dialogs
+ch.hsr.i.yaetm.ui.main
+ch.hsr.i.yaetm.ui.tables
+ch.hsr.i.yaetm.ui.tables.celleditor
+ch.hsr.i.yaetm.ui.utils
